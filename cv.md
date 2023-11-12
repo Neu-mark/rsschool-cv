@@ -134,7 +134,7 @@ const lifeOfABeginnerDeveloper = () => {
 console.log(lifeOfABeginnerDeveloper());
 ```
 ---
-## Download CV [![Скачать](https://github.com/Remixonator/rsschool-cv/blob/gh-pages/assets/icons/icons8-%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-48.png)](https://github.com/Remixonator/rsschool-cv/blob/gh-pages/assets/Professional%20CV%20Resume.pdf)
+## Download CV [![Скачать](https://github.com/Neu-mark/rsschool-cv/blob/gh-pages/assets/icons/icons8-%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-48.png)](https://github.com/Neu-mark/rsschool-cv/blob/gh-pages/assets/Professional%20CV%20Resume.pdf)
 **Thank you for considering my resume.  
 Best regards,  
 Mark**
